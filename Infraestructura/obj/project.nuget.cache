@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxATUgYmdhK8958S8Hn77QbXrzvmg30Rpc6cW5D0qPg3pMLl3yxUtxI8QhjXuETf/SNZbnbZAgxM3LGZf8ehzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja_7j3yrdb\\Escritorio\\LucasBerino_P1\\Infraestructura\\Infraestructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aleja_7j3yrdb\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512"
+  ],
+  "logs": []
+}
